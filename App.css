@@ -1,0 +1,11 @@
+.center {
+  text-align: center;
+  
+}
+
+.increment, .decrement{
+  margin: 0 5px;
+  padding: 5px;
+  border-radius: 3px;
+
+}
